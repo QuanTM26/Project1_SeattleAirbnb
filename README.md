@@ -1,10 +1,10 @@
 ### Table of Contents
 
-1. Installation
-2. Project Motivation
-3. File Descriptions
-4. Results
-5. Licensing, Authors, and Acknowledgements
+1. [Installation](https://github.com/QuanTM26/Project1_SeattleAirbnb#installation)
+2. [Project Motivation](https://github.com/QuanTM26/Project1_SeattleAirbnb#project-motivation)
+3. [File Descriptions](https://github.com/QuanTM26/Project1_SeattleAirbnb#file-descriptions)
+4. [Results](https://github.com/QuanTM26/Project1_SeattleAirbnb#results)
+5. [Licensing, Authors, and Acknowledgements](https://github.com/QuanTM26/Project1_SeattleAirbnb#licensing-authors-acknowledgements)
 
 ### Installation
 ---
