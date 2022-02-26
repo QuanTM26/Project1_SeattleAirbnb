@@ -26,7 +26,7 @@ There is a jupyter notebook here to showcase work related to the above questions
 
 ### Results
 ---
-The data analysis results will be demonstrated in the Blog post file attached.
+The data analysis results will be demonstrated in this [Blog post](https://github.com/QuanTM26/Project1_SeattleAirbnb/blob/main/BlogPost_SeattleAirbnb.ipynb).
 
 ### Licensing, Authors, Acknowledgements
 ---
